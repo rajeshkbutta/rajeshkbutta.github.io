@@ -7,14 +7,14 @@ first_name: Rajesh Kumar
 middle_name: 
 last_name: Butta
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Step by step, day by day—progress shines along the way!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: rajeshkbutta, artificial-intelligence, machine-learning, quantum-computing # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Coding and Care - AI for a Better Future # blog_name will be displayed in your blog page
+blog_description: Exploring AI, ML, and the future of intelligent systems—one algorithm at a time
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
