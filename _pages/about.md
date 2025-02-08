@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: USF Department of Computer Science. Tampa, FL USA. "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present" - Grandmaster Oogway
+subtitle: USF Department of Computer Science. Tampa, FL USA. 
 
 profile:
   align: right
@@ -28,8 +28,21 @@ latest_posts:
 
 Hello, thank you for visiting my website. I am excited to tell you about myself and what I am working on.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an AI/ML engineer with a background that bridges medicine, computer science, and artificial intelligence. With a Bachelor's in Computer Science (cum laude) and a minor in Chemistry, I am currently pursuing a Master’s in Computer Science with an AI specialization at the University of South Florida, set to graduate in May 2025. Before fully transitioning to AI, I spent three years in medical school, where I gained deep insights into human biology and healthcare—perspectives that now fuel my passion for building intelligent systems with real-world impact.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work centers on developing AI/ML solutions that amplify human capabilities, solve complex problems, and push the boundaries of what’s possible. I have expertise in NLP, MLOps, and large-scale AI applications, working with frameworks such as AWS SageMaker, Hugging Face (Mistral-4B, LLaMa-1B), Docker, Kubernetes, and Apache Kafka. Some of my key projects include:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+  - Toxicity AI – An AI model leveraging Mistral-4B to predict drug toxicity from physician reports, achieving 70% accuracy.
+  - OrgoVR – A mobile AR application designed to revolutionize organic chemistry education.
+  - MulticulturalED – An AI-powered initiative for inclusive and adaptive learning.
+  - Multimodal AI Model – Currently developing a system that integrates image and text modalities for unified content generation.
+
+Beyond technical expertise, I have a strong leadership background—serving as Treasurer of the Neurosurgery Club at Midwestern University, Secretary of the Engineering Medical Society at USF (where I increased membership by 150%), and leading teams in competitive settings like the Tampa Cricket League.
+
+My long-term vision is to merge AI with quantum computing, redefining the human paradigm through next-generation intelligent systems. For me, AI isn’t just about automation—it’s about augmentation, enhancing our ability to think, create, and discover.
+
+When I’m not building AI models, you can find me in the gym, working on my own optimization—both mentally and physically.
+
+**Let’s build the future, one algorithm at a time.**
+
+*"Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present" - Grandmaster Oogway*
