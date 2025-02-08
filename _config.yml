@@ -149,9 +149,9 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  projects:
-    output: true
-    permalink: /:collection/:title/
+#  projects:
+#    output: true
+#    permalink: /:collection/:title/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -642,3 +642,7 @@ excludes:
 #Removing blog  
   - _posts/
   - _pages/blog.md
+#Removing projects - should add back in when I have a project ready to present.
+  - _projects/
+  - _pages/projects.md
+
