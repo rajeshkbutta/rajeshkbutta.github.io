@@ -6,7 +6,7 @@ subtitle: USF Department of Computer Science. Tampa, FL USA.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>rajeshkbuttaj@gmail.com</p>
