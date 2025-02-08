@@ -192,13 +192,19 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  #Removing blog  
+  - _posts/
+  - _pages/blog.md
+  #Removing projects - should add back in when I have a project ready to present.
+  - _projects/
+  - _pages/projects.m
 keep_files:
   - CNAME
   - .nojekyll
 
 # Plug-ins
 plugins:
-  - jekyll-archives
+#  - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -638,14 +644,11 @@ jsonresume:
   - interests
   - references
 
-excludes:
+# Wrong excludes
+#excludes:
 #Removing blog  
-  - _posts/
-  - _pages/blog.md
+#  - _posts/
+#  - _pages/blog.md
 #Removing projects - should add back in when I have a project ready to present.
-  - _projects/
-  - _pages/projects.md
-  #Second solution
-  - _includes/projects_horizontal.liquid
-  - _includes/projects.liquid
-
+#  - _projects/
+#  - _pages/projects.m
