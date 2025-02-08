@@ -32,10 +32,10 @@ I am an AI/ML engineer with a background that bridges medicine, computer science
 
 My work centers on developing AI/ML solutions that amplify human capabilities, solve complex problems, and push the boundaries of what’s possible. I have expertise in NLP, MLOps, and large-scale AI applications, working with frameworks such as AWS SageMaker, Hugging Face (Mistral-4B, LLaMa-1B), Docker, Kubernetes, and Apache Kafka. Some of my key projects include:
 
-  - Toxicity AI – An AI model leveraging Mistral-4B to predict drug toxicity from physician reports, achieving 70% accuracy.
-  - OrgoVR – A mobile AR application designed to revolutionize organic chemistry education.
-  - MulticulturalED – An AI-powered initiative for inclusive and adaptive learning.
-  - Multimodal AI Model – Currently developing a system that integrates image and text modalities for unified content generation.
+  - **Toxicity AI** – An AI model leveraging Mistral-4B to predict drug toxicity from physician reports, achieving 70% accuracy.
+  - **OrgoVR** – A mobile AR application designed to revolutionize organic chemistry education.
+  - **MulticulturalED** – An AI-powered initiative for inclusive and adaptive learning.
+  - **Multimodal AI Model** – Currently developing a system that integrates image and text modalities for unified content generation.
 
 Beyond technical expertise, I have a strong leadership background—serving as Treasurer of the Neurosurgery Club at Midwestern University, Secretary of the Engineering Medical Society at USF (where I increased membership by 150%), and leading teams in competitive settings like the Tampa Cricket League.
 

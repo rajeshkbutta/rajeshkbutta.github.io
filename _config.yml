@@ -645,4 +645,7 @@ excludes:
 #Removing projects - should add back in when I have a project ready to present.
   - _projects/
   - _pages/projects.md
+  #Second solution
+  - _includes/projects_horizontal.liquid
+  - _includes/projects.liquid
 
