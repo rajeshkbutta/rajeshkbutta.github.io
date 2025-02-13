@@ -204,6 +204,8 @@ exclude:
   #Remove repos - should add back in when I have a repo ready
   - _pages/repositories.md
   - _includes/repository/
+  #Remove teaching - add back after doing some teaching. 
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
