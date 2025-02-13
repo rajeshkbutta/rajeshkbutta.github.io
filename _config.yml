@@ -201,6 +201,9 @@ exclude:
   #Remove publications - should add back in when I have a publication ready.
   - _bibliography/
   - _pages/publications.md
+  #Remove repos - should add back in when I have a repo ready
+  - _pages/repositories.md
+  - _includes/repository/
 keep_files:
   - CNAME
   - .nojekyll
