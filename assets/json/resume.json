@@ -1,11 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "NAME": "Rajesh Kumar Butta",
+    "ROLE": "AI Engineer",
+    "EMAIL": "rajeshkbuttaj@gmail.com",
+    "LINKEDIN URL": "www.linkedin.com/in/rajeshkumarbutta",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
